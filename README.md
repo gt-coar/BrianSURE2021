@@ -1,5 +1,5 @@
 # BrianSURE2021
-Brian Ko (KyungMin Ko) work for SURE 2021
+Brian Ko (KyungMin Ko) work for SURE 2021\n
 All of my codes are using pytorch and Wandb. Wandb is great tool for logging the machine learning experiment. You can checkout the detail in the link below. https://docs.wandb.ai/
 
 ## REINFORCE
